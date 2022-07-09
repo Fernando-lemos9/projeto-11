@@ -17,7 +17,8 @@
 body {
   font-size: 1.6rem;
   color: var(--text-color);
-  background: rgba(250, 254, 255,)
+  /* background: rgba(250, 254, 255,) */
+  background: rgb(46, 44, 44);
 }
 
 body * {
@@ -155,4 +156,6 @@ td .remove {
   border: none;
 
   color: red;
+
+  cursor: pointer;
 }
